@@ -1,4 +1,6 @@
 #!/bin/bash
+https://github.com/lich-bot/docker-android/blame/9a1041594932d4207a94961674f9fb2b2e58d848/.github/workflows/test.yml
+
 
 function is_str_in_list(){
     local given_str=${1}
