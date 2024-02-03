@@ -1,3 +1,7 @@
+[![Run Test](https://github.com/lich-bot/docker-android/actions/workflows/test.yml/badge.svg?branch=master&event=deployment)](https://github.com/lich-bot/docker-android/actions/workflows/test.yml)
+
+
+
 name: Run Test
 
 on:
